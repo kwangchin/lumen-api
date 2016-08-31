@@ -8,3 +8,4 @@ Homestead.json
 Thumbs.db
 _ide_helper.php
 tests/_output/*
+public/bower_components

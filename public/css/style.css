@@ -1,0 +1,46 @@
+body {
+    background: #eee;
+    font-size: 14px;
+}
+
+a, a:visited {
+    color: #666;
+    text-decoration: none;
+}
+a:hover, a:active {
+    color: #666;
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
+h3 {
+    font-size: 1.2rem;
+}
+
+#container {
+    margin: 0 auto;
+    width: 960px;
+}
+
+div.box {
+    position: relative;
+}
+
+div.box div.box-loading {
+    color: #999;
+    font-size: 1.5rem;
+    position: absolute;
+}
+
+table#users {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table#users th, table#users td {
+    border: 1px solid #aaa;
+    padding: 5px 10px;
+}
